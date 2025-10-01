@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=Building+Tomorrow's+Web+Today;Crafting+Digital+Experiences+That+Matter" alt="Typing SVG" />
 </p>
 
+
 <!-- Professional Badge Collection -->
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-2F81F7?style=for-the-badge&logo=timeline&logoColor=white&labelColor=1a1a2e" />
