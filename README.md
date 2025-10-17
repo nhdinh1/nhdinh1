@@ -2,7 +2,7 @@
 
 <!-- Dynamic Header with Gradient Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hoàng%20Dinh&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header"/>
-
+ 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Web+Developer+%7C+Digital+Product+Engineer;Specialized+in+Full-Stack+Development;Always+Learning+%7C+Always+Building" alt="Typing Animation"/>
